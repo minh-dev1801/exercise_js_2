@@ -1,6 +1,6 @@
 # Main Exercise JS 2
 
-![Demo header](/demo1.PNG)
+![Demo](/demo1.png)
 
 ## Giới thiệu
 
